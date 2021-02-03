@@ -1,10 +1,6 @@
-# Project Overview
+# WeClick
 
-## Project Name
-
-WeClick
-
-## Project Description
+## Description
 
 WeClick is a dating app where love is just a click away. I will be using if else statements to sort through the random user API to find the perfect match for the user. The user will be able to email or call their matches.
 
@@ -85,7 +81,6 @@ WeClick is a dating app where love is just a click away. I will be using if else
 
 [Wireframe2](https://res.cloudinary.com/darnycya/image/upload/v1591666014/LoveIntrestFace_mqao9y.png) - This is the wireframe of the page for love matches. It'll show their name, picture, age, city, a skip button, and access to email or call them. 
 
-### MVP/PostMVP  
 
 #### MVP 
 
@@ -136,7 +131,3 @@ const maleAge = res.data.results[0].dob.age
 ```
 
 This code places the random user's age and city onto the page.
-
-## Change Log
-
-Instead of using a radio button we just used a regular one. 
