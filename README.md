@@ -1,5 +1,10 @@
 # WeClick
 
+<p align="center">
+<img src="https://media.giphy.com/media/SF1y5r7E00Hvos3aqD/giphy.gif"></img>
+</p>
+
+
 ## Description
 
 WeClick is a dating app where love is just a click away. I will be using if else statements to sort through the random user API to find the perfect match for the user. The user will be able to email or call their matches.
@@ -102,7 +107,7 @@ WeClick is a dating app where love is just a click away. I will be using if else
 |June 10| HTML, CSS | Complete
 |June 11| JavaScript | Complete
 |June 12| Clean up and debug | Complete
-|June 15| Present | Incomplete
+|June 15| Present | Complete
 
 ## Priority Matrix
 
