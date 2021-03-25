@@ -1,8 +1,5 @@
 
 
-
-
-
 const getMaleData = () => {
   const api = "https://randomuser.me/api/?gender=male"
 
@@ -58,5 +55,3 @@ maleButton.addEventListener('click', getMaleData)
 //make the female button
 const femaleButton = document.querySelector('#female')
 femaleButton.addEventListener('click', getFemaleData);
-
-
